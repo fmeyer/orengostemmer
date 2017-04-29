@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ivy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivy/ivy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

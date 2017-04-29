@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/lucene-analyzers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/scala-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/lucene-misc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/logback-classic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/lucene-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/scalatest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javadoc/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

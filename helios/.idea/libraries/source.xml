@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="source">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/source/lucene-analyzers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/scala-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/scalatest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/logback-classic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/scala-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/lucene-misc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/scala-dbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/lucene-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/source/scala-compiler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

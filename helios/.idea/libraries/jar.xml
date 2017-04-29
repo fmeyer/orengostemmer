@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-smartcn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jline.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/hamcrest-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jansi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-misc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/scala-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/wstx-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/groovy-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-analyzers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/solr-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/geronimo-jms_1.1_spec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/solr-solrj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jakarta-regexp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/scala-dbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/icu4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/scala-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-memory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/scalatest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/scala-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-kuromoji.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-grouping.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jcl-over-slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-stempel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/logback-classic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-queries.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-icu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-highlighter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-spellchecker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/logback-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/solr-analysis-extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-phonetic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/janino.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/lucene-spatial.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/slf4j-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
